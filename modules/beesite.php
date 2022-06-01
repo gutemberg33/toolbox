@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <!-- Test -->
+        <!-- Hello -->
         <title>Beesite</title>
         <meta charset="UTF-8">
     </head>
